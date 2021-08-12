@@ -1,4 +1,4 @@
-English | [ÖÐÎÄÎÄµµ](README_zh.md)
+English | [ä¸­æ–‡æ–‡æ¡£](README_zh.md)
 # **Before you start using it**
 1. Use the SQL file provided in the `DATABSE_SQL` folder to create the corresponding database.
 2. Modify your database configuration (account and password to connect to the database) under `druid.properties` in the `/src/main/resources/` folder.
